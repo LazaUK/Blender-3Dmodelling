@@ -7,4 +7,4 @@ Will upload some of my new models here as I progress through the Blender tutoria
 ## Humanoid - Bust
 | Model | Description |
 | --- | --- |
-| ![Humanoid_Bust](/images/Humanoid_Bust.png) | Followed Grant Abbitt's tutorial on **Sculpting** in Blender 2.8. <br><br> **Note:** Model is Built in Blender 2.81|
+| ![Humanoid_Bust](/images/Humanoid_Bust.png) | Followed Grant Abbitt's tutorial on **Sculpting** in Blender 2.8. <br><br> **Note:** Model is built in Blender 2.81|
