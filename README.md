@@ -12,4 +12,4 @@ Will upload some of my new models here as I progress through the Blender tutoria
 ## Corona - Blast
 | Model | Description |
 | --- | --- |
-| ![Corona_Blast](/images/Corona_Blaster.gif) | Combined results of 3 tutorials (from *Kext Next*, *blenderBinge* and *BlenderMania*) to create short **Animation** on how to blast corona virus model. <br><br> **Note:** Model is built in Blender 2.81|
+| ![Corona_Blast](/images/Corona_Blaster.gif) | Combined results of 3 tutorials (from *Kext Next*, *blenderBinge* and *BlenderMania*) to create this short **Animation** on how to blast corona virus model. <br><br> **Note:** Model is built in Blender 2.81|
