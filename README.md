@@ -7,9 +7,9 @@ Will upload some of my new models here as I progress through the Blender tutoria
 ## Humanoid - Bust
 | Model | Description |
 | --- | --- |
-| ![Humanoid_Bust](/images/Humanoid_Bust.png) | Followed *Grant Abbitt*'s tutorial on **Sculpting** in Blender 2.8. <br><br> **Note:** Model is built in Blender 2.81|
+| ![Humanoid_Bust](/images/Humanoid_Bust.png) | Followed *Grant Abbitt*'s tutorial on **Sculpting in Blender 2.8**. <br><br> **Note:** Model is built in Blender 2.81|
 
 ## Corona - Blast
 | Model | Description |
 | --- | --- |
-| ![Corona_Blast](/images/Corona_Blaster.gif) | Combined results of 3 tutorials (from *Kext Next*, *blenderBinge* and *BlenderMania*) to create this short **Animation** on how to blast corona virus model. <br><br> **Note:** Model is built in Blender 2.81|
+| ![Corona_Blast](/images/Corona_Blaster.gif) | This is a result of combined 3 tutorials (from *Kext Next*, *blenderBinge* and *BlenderMania*) to create a short **Animation** on how to blast corona virus model. <br><br> **Note:** Model is built in Blender 2.81|
