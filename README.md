@@ -17,4 +17,4 @@ Will upload some of my new models here as I progress through the Blender tutoria
 ## Katana - Weapons
 | Model | Description |
 | --- | --- |
-| ![Katana_Weapons](/images/Katana_Weapons.gif) | Work-in-progress - to be shared soon. <br><br> **Note:** Model is built in Blender 2.81|
+| ![Katana_Weapons](/images/Katana_Weapons.gif) | Work-in-progress - to be shared soon. <br><br> **Note:** Model is built in Blender 2.83|
