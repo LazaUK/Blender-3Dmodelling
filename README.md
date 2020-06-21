@@ -13,3 +13,8 @@ Will upload some of my new models here as I progress through the Blender tutoria
 | Model | Description |
 | --- | --- |
 | ![Corona_Blast](/images/Corona_Blaster.gif) | This is a result of the combined 3 tutorials (from *Kext Next*, *blenderBinge* and *BlenderMania*) to create a short **Animation** on how to blast corona virus model. <br><br> **Note:** Model is built in Blender 2.81|
+
+## Katana - Weapons
+| Model | Description |
+| --- | --- |
+| ![Katana_Weapons](/images/Katana_Weapons.gif) | Work-in-progress - to be shared soon. <br><br> **Note:** Model is built in Blender 2.81|
