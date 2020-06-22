@@ -17,4 +17,4 @@ Will upload some of my new models here as I progress through the Blender tutoria
 ## Katana - Weapons
 | Model | Description |
 | --- | --- |
-| ![Katana_Weapons](/images/Katana_Weapons.gif) | Work-in-progress - to be shared soon. <br><br> **Note:** Model is built in Blender 2.83|
+| ![Katana_Weapons](/images/Katana_Weapons.gif) | Work-in-progress. Learnt modelling details from *Array Modifier*, materials sculpting from *Brendan @ Blender Unleashed* and dented mental technique from *Ducky 3D*. <br><br> **Note:** Model is built in Blender 2.83|
