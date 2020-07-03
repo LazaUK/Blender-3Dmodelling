@@ -17,4 +17,4 @@ Will upload some of my new models here as I progress through the Blender tutoria
 ## Katana - Weapons
 | Model | Description |
 | --- | --- |
-| <<<"Work-in-progress">>>. ![Katana_Weapons](/images/Katana_Weapons.gif) | Learnt Katana's modelling specifics from *Array Modifier*, leather wrapping from *yojigraphics*, wood grain shading from *TutsByKai* and the dented metal technique from *Ducky 3D*, thanks! <br><br> **Note:** Model is built in Blender 2.83|
+| <<<"Katana_Weapon">>>. ![Katana_Weapons](/images/Katana_static.png) | Learnt Katana's modelling specifics from *Array Modifier*, leather wrapping from *yojigraphics*, wood grain shading from *TutsByKai* and the dented metal technique from *Ducky 3D*, thanks! <br><br> **Note:** Model is built in Blender 2.83|
