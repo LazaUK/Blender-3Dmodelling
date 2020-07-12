@@ -14,7 +14,7 @@ Will upload some of my new models here as I progress through the Blender tutoria
 | --- | --- |
 | ![Corona_Blast](/images/Corona_Blaster.gif) | This is a result of the combined 3 tutorials (from *Kext Next*, *blenderBinge* and *BlenderMania*) to create a short **Animation** on how to blast corona virus model. <br><br> **Note:** Model is built in Blender 2.82|
 
-## Katana - Weapons
+## Something else - TBC
 | Model | Description |
 | --- | --- |
-| ![Katana_Weapons](/images/Katana_static.png) | Learnt Katana's modelling specifics from *Array Modifier*, leather wrapping from *yojigraphics*, wood grain shading from *TutsByKai* and the dented metal technique from *Ducky 3D*, thanks! <br><br> **Note:** Model is built in Blender 2.83|
+| TBC | TBC |
