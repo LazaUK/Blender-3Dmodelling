@@ -17,4 +17,4 @@ Will upload some of my new models here as I progress through the Blender tutoria
 ## AmongUs - Scene
 | Model | Description |
 | --- | --- |
-| ![Among_Us](/images/Among_Us.png) | This is a result of the combined tutorials from *Tim Morales* and *Grant Abbitt* to re-create the scene from AmongUs game. <br><br> **Note:** Model is built in Blender 2.91 |
+| ![Among_Us](/images/Among_Us.png) | This is a result of the combined tutorials from *Tim Morales* and *Grant Abbitt* to re-create this scene from AmongUs game. <br><br> **Note:** Model is built in Blender 2.91 |
