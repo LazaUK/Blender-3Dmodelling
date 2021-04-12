@@ -22,4 +22,4 @@ Will upload some of my new models here as I progress through the Blender tutoria
 ## Nebula - Blast
 | Model | Description |
 | --- | --- |
-| ![Nebula_Blust](/images/Nebula_Blast.png) | Followed *Kaetsu's Studio* tutorial to bake a space nebula. <br><br> **Note:** Model is built in Blender 2.91 |
+| ![Nebula_Blust](/images/Nebula_Blast.png) | Followed *Kaetsu's Studio*'s tutorial to bake a space nebula. <br><br> **Note:** Model is built in Blender 2.91 |
