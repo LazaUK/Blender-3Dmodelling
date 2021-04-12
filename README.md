@@ -18,3 +18,8 @@ Will upload some of my new models here as I progress through the Blender tutoria
 | Model | Description |
 | --- | --- |
 | ![Among_Us](/images/Among_Us.png) | This is a result of the combined tutorials from *Tim Morales* and *Grant Abbitt* to re-create a scene from AmongUs game. <br><br> **Note:** Model is built in Blender 2.91 |
+
+## Nebula - Blast
+| Model | Description |
+| --- | --- |
+| ![Nebula_Blust](/images/Nebula_Blast.png) | Followed *Kaetsu's Studio* tutorial to bake space nebula. <br><br> **Note:** Model is built in Blender 2.91 |
