@@ -23,3 +23,8 @@ Will upload some of my new models here as I progress through the Blender tutoria
 | Model | Description |
 | --- | --- |
 | ![Nebula_Blust](/images/Nebula_Blast.png) | Followed *Kaetsu's Studio*'s tutorial to bake a space nebula. <br><br> **Note:** Model is built in Blender 2.91 |
+
+## Bison - Pose
+| Model | Description |
+| --- | --- |
+| ![Bison_Pose](/images/Bison_Pose.png) | Adapted *BlenderOk*'s tutorial to model a bison. <br><br> **Note:** Model is built in Blender 3.4 |
