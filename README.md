@@ -27,4 +27,4 @@ Will upload some of my new models here as I progress through the Blender tutoria
 ## Bison - Pose
 | Model | Description |
 | --- | --- |
-| ![Bison_Pose](/images/Bison_Pose.png) | Adapted *BlenderOk*'s tutorial to model a bison. <br><br> **Note:** Model is built in Blender 3.4 |
+| ![Bison_Pose](/images/Bison_Pose.png) | Adapted *BlenderOk*'s tutorial to model a bison, then applied Hair techniques from *Kaizen Tutorials*. <br><br> **Note:** Model is built in Blender 3.4 |
